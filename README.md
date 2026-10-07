@@ -48,10 +48,11 @@ Education and experience come from the supplied portfolio brief. Public reposito
 
 The character portrait was generated from the owner's supplied photo and reference. The original photo is not included.
 
-**Resume PDF has not been supplied.** The download remains unavailable, with an email request alternative. Add the authentic PDF to `public/resume.pdf` and update the resume links using `assetUrl('/resume.pdf')` to enable it.
+The supplied resume is available at `public/Aadesh-Kapadnis-Resume.pdf`. Hero, resume-section and contact downloads use the GitHub Pages base path. Replace this PDF to update the download without changing the layout.
 
 ## Accessibility
 
 Semantic sections, keyboard-accessible controls, visible focus indicators, skip links, responsive layouts and reduced-motion support. The short preloader runs once per browser session.
 
 No API keys or secrets are needed. Local environment files, dependencies and build caches are excluded from source control.
+

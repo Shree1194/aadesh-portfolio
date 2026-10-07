@@ -44,7 +44,7 @@ The base path and canonical origin are centralized in `lib/site.ts`. Next.js pre
 
 ## Content notes
 
-Education and experience come from the supplied portfolio brief. Public repository buttons are shown only for verified repositories. Illustrative project covers are labelled; the e-commerce case study includes an authentic chart from its linked repository.
+Education, experience, skills and project details are aligned with the supplied resume. Public repository buttons are shown only for verified repositories. Illustrative project covers are labelled; the e-commerce case study includes an authentic chart from its linked repository.
 
 The character portrait was generated from the owner's supplied photo and reference. The original photo is not included.
 
